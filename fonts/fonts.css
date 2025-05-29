@@ -3,3 +3,9 @@
   font-family: 'Inter';
   font-weight: normal;
 }
+
+@font-face {
+  font-family: 'Inter';
+  src: url(../fonts/Inter-Black.otf) format('otf');
+  font-weight: bold;
+}
