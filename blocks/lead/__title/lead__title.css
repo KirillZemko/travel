@@ -2,9 +2,20 @@
   font-size: 96px;
   line-height: 100px;
   font-weight: bold;
-  width: 720px;
   margin: 0 auto;
   text-align: center;
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__title {
+    width: 60%;
+  }
+}
+
+@media screen and (min-width: 1023px) and (max-width: 1024px) {
+  .lead__title {
+    width: 60%;
+  }
 }
 
 @media screen and (min-width: 319px) and (max-width: 320px) {
