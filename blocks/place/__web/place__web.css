@@ -1,0 +1,9 @@
+.place__web {
+  text-decoration: underline;
+  font-family: 'Inter', "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #fff;
+}
