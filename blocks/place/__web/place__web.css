@@ -7,3 +7,9 @@
   line-height: 25px;
   color: #fff;
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .place__web {
+    margin: 0;
+  }
+}

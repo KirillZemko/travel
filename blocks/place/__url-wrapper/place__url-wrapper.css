@@ -1,3 +1,9 @@
 .place__url-wrapper {
    align-self: end;
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .place__url-wrapper {
+    padding: 0 16px;
+  }
+}

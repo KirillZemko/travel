@@ -6,4 +6,11 @@
   line-height: 12px;
   letter-spacing: 5px;
   color: #AAAAAA;
+  margin-bottom: 12px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .place__url {
+    margin-bottom: 12px;
+  }
 }
